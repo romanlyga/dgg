@@ -34,6 +34,7 @@ sections:
         icon_position: right
         new_window: false
         type: action
+    background_image: images/successful-saturn.jpg
   - type: features_section
     features:
       - title: >-
