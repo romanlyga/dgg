@@ -8,8 +8,7 @@ sections:
     grid_items:
       - image: images/logo-1.svg
         image_align: center
-      - image: images/12.jpg
-        image_align: center
+      - image_align: center
       - image: images/logo-3.svg
         image_align: center
       - image: images/logo-4.svg
