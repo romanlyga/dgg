@@ -11,8 +11,7 @@ sections:
       - image_align: center
       - image: images/logo-3.svg
         image_align: center
-        content: >-
-          assafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafsassafsaffsaasfsafsaffsafasfaafs
+        content: ''
         title: asdasdasdsadasdasdasdsaddsa
       - image: images/logo-4.svg
         image_align: center
